@@ -11,7 +11,7 @@ const Create = () => {
         <div>
             <h1>Jobs Board</h1>
             <Link to="/"> Home</Link>
-            <h3>Add a new author:</h3>
+            <h3>Add a new job:</h3>
             <JobCreateForm />
         </div>
     )
